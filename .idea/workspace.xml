@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47fed590-9cdb-410c-96ba-cd4b9b7300a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Article.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RepositoryArticles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RepositoryArticlesDB.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,23 +24,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="4" />
+          <entry key="java" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="20" />
-          <entry key="java" value="2729" />
+          <entry key="java" value="3001" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2729" />
+          <entry key="JAVA" value="3001" />
           <entry key="PLAIN_TEXT" value="20" />
         </counts>
       </usages-collector>
@@ -72,11 +70,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RepositoryArticles.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="15" column="46" lean-forward="true" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/RepositoryArticlesDB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+              <folding>
+                <element signature="e#130#131#0" expanded="true" />
+                <element signature="e#158#159#0" expanded="true" />
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#246#247#0" expanded="true" />
+                <element signature="e#305#306#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#416#417#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
+                <element signature="e#512#513#0" expanded="true" />
+                <element signature="e#539#540#0" expanded="true" />
+                <element signature="e#615#616#0" expanded="true" />
+                <element signature="e#642#643#0" expanded="true" />
+                <element signature="e#705#706#0" expanded="true" />
+                <element signature="e#732#733#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -110,6 +133,7 @@
         <option value="$PROJECT_DIR$/src/StaticApp.java" />
         <option value="$PROJECT_DIR$/src/Repository.java" />
         <option value="$PROJECT_DIR$/src/RepositoryArticles.java" />
+        <option value="$PROJECT_DIR$/src/RepositoryArticlesDB.java" />
       </list>
     </option>
   </component>
@@ -146,7 +170,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580384834747" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580384922980" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -238,6 +262,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="46" lean-forward="true" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RepositoryArticlesDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#705#706#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
