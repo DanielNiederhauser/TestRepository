@@ -7,7 +7,6 @@ public interface RepositoryArticles {
     //es werden nur die Methodenköpfe angegeben
     //      es existiert noch kein Code
     //      diesen müssen die implementierenden Klassen bereitstellen
-    public boolean Save();
     public boolean insert(Article article);
     public boolean remove(int primaryKey);
     public boolean update(int primaryKey, Article newArticleData);
