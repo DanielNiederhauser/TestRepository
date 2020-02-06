@@ -1,8 +1,8 @@
 public class MyMath {
 
     
-    //Test-Conflict-Localasdfjklö
-    //ABCDE
+    //Test-Conflict-Local
+    //asdf
     //Wichtig
     /*
     statische Members (Felder und Methoden) können im Hauptprogramm
