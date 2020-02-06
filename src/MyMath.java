@@ -2,6 +2,7 @@ public class MyMath {
 
     //Test-Conflict
     //Test-Conflict-Local
+    //ABCDE
     //Wichtig
     /*
     statische Members (Felder und Methoden) können im Hauptprogramm
